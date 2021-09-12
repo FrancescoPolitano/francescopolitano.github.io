@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Su di me
 permalink: /about/
 ---
 👨‍💻 Sono un appassionato di informatica a 360° e per questo nel mio percorso ho puntato sul maturare esperienze lavorative che mi permettessero una crescita professionale orizzontale: dal back-end al front-end, passando per i sistemi, gli strumenti devops e le moderne tecnologie per il cloud
