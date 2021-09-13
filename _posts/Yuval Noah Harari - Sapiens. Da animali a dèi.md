@@ -1,3 +1,9 @@
+---
+layout: post
+title: This post demonstrates post content styles
+categories: Miscellaneous
+---
+
 # Sapiens. Da animali a dèi
 by Yuval Noah Harari
 
